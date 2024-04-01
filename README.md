@@ -2,7 +2,7 @@
 ![3d29c728-08c2-4a11-b77f-97781f3848f2](https://github.com/Rieyanshi/todo-app/assets/86876634/98cbd35c-6cc8-4c28-b8f2-7780fcd9ebf6)
 
 # Simple-React-To-Do-Application
-To-Do application built using ReactJS and Redux, it offers a clean and intuitive user interface, allowing users to seamlessly add, view, and delete tasks. With the ability to mark tasks as completed with persistent storage using local storage sp asks are saved even after a page reload.
+To-Do application built using ReactJS and Redux, it offers a clean and intuitive user interface, allowing users to seamlessly add, view, and delete tasks. With the ability to mark tasks as completed with persistent storage using local storage so tasks are saved even after a page reload.
 
 ## Features
 
