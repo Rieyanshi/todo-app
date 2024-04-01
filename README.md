@@ -15,7 +15,7 @@ To-Do application built using ReactJS and Redux, it offers a clean and intuitive
 ## Setup
 
 1. Clone the repository:
-     git clone [https://github.com/yourusername/todo-app.git](https://github.com/Rieyanshi/todo-app)
+     git clone https://github.com/Rieyanshi/todo-app
 
 2. Navigate to the project directory:
      ```sh
